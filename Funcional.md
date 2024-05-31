@@ -8,3 +8,4 @@ Los estados de turno son:
 
 - CREATED
 - PAUSED
+- FINISHED
